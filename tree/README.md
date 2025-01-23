@@ -4,15 +4,15 @@ This directory contains solutions to LeetCode problems involving tree data struc
 ## Problem List
 | # | Title | Difficulty | Key Concepts | My Solution |
 |---|-------|------------|--------------|-------------|
-| 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy | Tree, DFS |[My Code](https://github.com/ArmanBehnam/Leetcode/tree/main/tree/94) |
+| 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy | Tree, DFS |[My Code](https://github.com/irojhan/Leetcode/tree/master/tree/94) |
 | 95 | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) | Medium | Tree, DP |[My Code](https://github.com/ArmanBehnam/Leetcode/tree/main/tree/95) |
-| 96 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | Medium | Tree, DP |[My Code](https://github.com/ArmanBehnam/Leetcode/tree/main/tree/96) |
-| 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | Medium | Tree, DFS |[My Code](https://github.com/ArmanBehnam/Leetcode/tree/main/tree/98) |
-| 99 | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | Medium | Tree, DFS |[My Code](https://github.com/ArmanBehnam/Leetcode/tree/main/tree/99) |
-| 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | Easy | Tree, DFS |[My Code](https://github.com/ArmanBehnam/Leetcode/tree/main/tree/100) |
-| 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | Easy | Tree, DFS |[My Code](https://github.com/ArmanBehnam/Leetcode/tree/main/tree/101) |
-| 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Medium | Tree, BFS |[My Code](https://github.com/ArmanBehnam/Leetcode/tree/main/tree/102) |
-| 103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | Medium | Tree, BFS |[My Code](https://github.com/ArmanBehnam/Leetcode/tree/main/tree/103) |
+| 96 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | Medium | Tree, DP |[My Code](https://github.com/irojhan/Leetcode/tree/master/tree/96) |
+| 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | Medium | Tree, DFS |[My Code](https://github.com/irojhan/Leetcode/tree/master/tree/98) |
+| 99 | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | Medium | Tree, DFS |[My Code](https://github.com/irojhan/Leetcode/tree/master/tree/99) |
+| 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | Easy | Tree, DFS |[My Code](https://github.com/irojhan/Leetcode/tree/master/tree/100) |
+| 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | Easy | Tree, DFS |[My Code](https://github.com/irojhan/Leetcode/tree/master/tree/101) |
+| 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Medium | Tree, BFS |[My Code](https://github.com/irojhan/Leetcode/tree/master/tree/102) |
+| 103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | Medium | Tree, BFS |[My Code](https://github.com/irojhan/Leetcode/tree/master/tree/103) |
 
 ## Common Patterns & Techniques
 1. Tree Traversal
