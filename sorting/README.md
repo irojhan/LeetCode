@@ -4,15 +4,15 @@ This directory contains solutions to LeetCode problems that involve sorting algo
 ## Problem List
 | # | Title | Difficulty | Key Concepts | My Solution |
 |---|-------|------------|--------------|-------------|
-| 15 | [3Sum](https://leetcode.com/problems/3sum/) | Medium | Sorting, Two Pointers |[My Code](https://github.com/ArmanBehnam/Leetcode/tree/main/sorting/15) |
-| 16 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | Medium | Sorting, Two Pointers |[My Code](https://github.com/ArmanBehnam/Leetcode/tree/main/sorting/16) |
-| 18 | [4Sum](https://leetcode.com/problems/4sum/) | Medium | Sorting, Two Pointers |[My Code](https://github.com/ArmanBehnam/Leetcode/tree/main/sorting/18) |
-| 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | Sorting, Hash Table |[My Code](https://github.com/ArmanBehnam/Leetcode/tree/main/sorting/49) |
-| 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | Sorting |[My Code](https://github.com/ArmanBehnam/Leetcode/tree/main/sorting/56) |
-| 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | Sorting, Two Pointers |[My Code](https://github.com/ArmanBehnam/Leetcode/tree/main/sorting/75) |
-| 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | Sorting, Two Pointers |[My Code](https://github.com/ArmanBehnam/Leetcode/tree/main/sorting/88) |
-| 147 | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | Medium | Sorting, Linked List |[My Code](https://github.com/ArmanBehnam/Leetcode/tree/main/sorting/147) |
-| 148 | [Sort List](https://leetcode.com/problems/sort-list/) | Medium | Sorting, Linked List |[My Code](https://github.com/ArmanBehnam/Leetcode/tree/main/sorting/148) |
+| 15 | [3Sum](https://leetcode.com/problems/3sum/) | Medium | Sorting, Two Pointers |[My Code](https://github.com/irojhan/Leetcode/tree/master/sorting/15) |
+| 16 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | Medium | Sorting, Two Pointers |[My Code](https://github.com/irojhan/Leetcode/tree/master/sorting/16) |
+| 18 | [4Sum](https://leetcode.com/problems/4sum/) | Medium | Sorting, Two Pointers |[My Code](https://github.com/irojhan/Leetcode/tree/master/sorting/18) |
+| 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | Sorting, Hash Table |[My Code](https://github.com/irojhan/Leetcode/tree/master/sorting/49) |
+| 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | Sorting |[My Code](https://github.com/irojhan/Leetcode/tree/master/sorting/56) |
+| 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | Sorting, Two Pointers |[My Code](https://github.com/irojhan/Leetcode/tree/master/sorting/75) |
+| 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | Sorting, Two Pointers |[My Code](https://github.com/irojhan/Leetcode/tree/master/sorting/88) |
+| 147 | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | Medium | Sorting, Linked List |[My Code](https://github.com/irojhan/Leetcode/tree/master/sorting/147) |
+| 148 | [Sort List](https://leetcode.com/problems/sort-list/) | Medium | Sorting, Linked List |[My Code](https://github.com/irojhan/Leetcode/tree/master/sorting/148) |
 
 ## Common Patterns & Techniques
 1. Custom Sorting
