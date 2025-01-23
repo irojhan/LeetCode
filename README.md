@@ -107,7 +107,7 @@ cd Leetcode
 ## Contributing
 Feel free to open issues if you find any bugs or have suggestions for improvements.
 
-## [My Website]([https://armanbehnam.github.io/](https://sites.google.com/view/roohollah-jahanmahin/home))
+## [My Website](https://sites.google.com/view/roohollah-jahanmahin/home)
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
