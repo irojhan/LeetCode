@@ -4,16 +4,16 @@ This directory contains solutions to LeetCode problems that involve 2D arrays/ma
 ## Problem List
 | # | Title | Difficulty | Key Concepts | My Solution |
 |---|-------|------------|--------------|-------------|
-| 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Medium | Matrix, Hash Table |[My Code](https://github.com/ArmanBehnam/Leetcode/tree/main/matrix/36) |
-| 37 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | Hard | Matrix, Backtracking |[My Code](https://github.com/ArmanBehnam/Leetcode/tree/main/matrix/37) |
-| 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | Medium | Matrix |[My Code](https://github.com/ArmanBehnam/Leetcode/tree/main/matrix/48) |
-| 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | Medium | Matrix |[My Code](https://github.com/ArmanBehnam/Leetcode/tree/main/matrix/54) |
-| 59 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | Medium | Matrix |[My Code](https://github.com/ArmanBehnam/Leetcode/tree/main/matrix/59) |
-| 63 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | Medium | Matrix, DP |[My Code](https://github.com/ArmanBehnam/Leetcode/tree/main/matrix/63) |
-| 64 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | Medium | Matrix, DP |[My Code](https://github.com/ArmanBehnam/Leetcode/tree/main/matrix/64) |
-| 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | Medium | Matrix |[My Code](https://github.com/ArmanBehnam/Leetcode/tree/main/matrix/73) |
-| 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | Medium | Matrix, Binary Search |[My Code](https://github.com/ArmanBehnam/Leetcode/tree/main/matrix/74) |
-| 79 | [Word Search](https://leetcode.com/problems/word-search/) | Medium | Matrix, Backtracking |[My Code](https://github.com/ArmanBehnam/Leetcode/tree/main/matrix/79) |
+| 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Medium | Matrix, Hash Table |[My Code](https://github.com/irojhan/Leetcode/tree/master/matrix/36) |
+| 37 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | Hard | Matrix, Backtracking |[My Code](https://github.com/irojhan/Leetcode/tree/master/matrix/37) |
+| 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | Medium | Matrix |[My Code](https://github.com/irojhan/Leetcode/tree/master/matrix/48) |
+| 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | Medium | Matrix |[My Code](https://github.com/irojhan/Leetcode/tree/master/matrix/54) |
+| 59 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | Medium | Matrix |[My Code](https://github.com/irojhan/Leetcode/tree/master/matrix/59) |
+| 63 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | Medium | Matrix, DP |[My Code](https://github.com/irojhan/Leetcode/tree/master/matrix/63) |
+| 64 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | Medium | Matrix, DP |[My Code](https://github.com/irojhan/Leetcode/tree/master/matrix/64) |
+| 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | Medium | Matrix |[My Code](https://github.com/irojhan/Leetcode/tree/master/matrix/73) |
+| 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | Medium | Matrix, Binary Search |[My Code](https://github.com/irojhan/Leetcode/tree/master/matrix/74) |
+| 79 | [Word Search](https://leetcode.com/problems/word-search/) | Medium | Matrix, Backtracking |[My Code](https://github.com/irojhan/Leetcode/tree/master/matrix/79) |
 
 ## Common Patterns & Techniques
 1. Matrix Traversal
