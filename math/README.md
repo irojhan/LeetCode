@@ -4,9 +4,9 @@ This directory contains solutions to LeetCode problems that focus on mathematica
 ## Problem List
 | # | Title | Difficulty | Key Concepts | My Solution |
 |---|-------|------------|--------------|-------------|
-| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | Math, Linked List |[My Code](https://github.com/ArmanBehnam/Leetcode/tree/main/math/2) |
-| 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | Medium | Math |[My Code](https://github.com/ArmanBehnam/Leetcode/tree/main/math/7) |
-| 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | Math |[My Code](https://github.com/ArmanBehnam/Leetcode/tree/main/math/9) |
+| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | Math, Linked List |[My Code](https://github.com/irojhan/Leetcode/tree/master/math/2) |
+| 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | Medium | Math |[My Code](https://github.com/irojhan/Leetcode/tree/master/math/7) |
+| 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | Math |[My Code](https://github.com/irojhan/Leetcode/tree/master/math/9) |
 
 ## Common Patterns & Techniques
 1. Number Manipulation
