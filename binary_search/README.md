@@ -4,14 +4,14 @@ This directory contains solutions to LeetCode problems that focus on binary sear
 ## Problem List
 | # | Title | Difficulty | Key Concepts | My Solution |
 |---|-------|------------|--------------|-------------|
-| 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | Binary Search, Divide & Conquer |[My Code](https://github.com/ArmanBehnam/Leetcode/tree/main/binary_search/4) |
-| 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | Binary Search |[My Code](https://github.com/ArmanBehnam/Leetcode/tree/main/binary_search/33) |
-| 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Medium | Binary Search |[My Code](https://github.com/ArmanBehnam/Leetcode/tree/main/binary_search/34) |
-| 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | Binary Search |[My Code](https://github.com/ArmanBehnam/Leetcode/tree/main/binary_search/35) |
-| 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | Easy | Binary Search |[My Code](https://github.com/ArmanBehnam/Leetcode/tree/main/binary_search/69) |
+| 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | Binary Search, Divide & Conquer |[My Code](https://github.com/irojhan/Leetcode/tree/master/binary_search/4) |
+| 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | Binary Search |[My Code](https://github.com/irojhan/Leetcode/tree/master/binary_search/33) |
+| 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Medium | Binary Search |[My Code](https://github.com/irojhan/Leetcode/tree/master/binary_search/34) |
+| 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | Binary Search |[My Code](https://github.com/irojhan/Leetcode/tree/master/binary_search/35) |
+| 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | Easy | Binary Search |[My Code](https://github.com/irojhan/Leetcode/tree/master/binary_search/69) |
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | Medium | Binary Search, Matrix |[My Code](https://github.com/ArmanBehnam/Leetcode/tree/main/binary_search/74) |
-| 81 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | Medium | Binary Search |[My Code](https://github.com/ArmanBehnam/Leetcode/tree/main/binary_search/81) |
-| 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Medium | Binary Search |[My Code](https://github.com/ArmanBehnam/Leetcode/tree/main/binary_search/153) |
+| 81 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | Medium | Binary Search |[My Code](https://github.com/irojhan/Leetcode/tree/master/binary_search/81) |
+| 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Medium | Binary Search |[My Code](https://github.com/irojhan/Leetcode/tree/master/binary_search/153) |
 
 ## Common Patterns & Techniques
 1. Classic Binary Search
