@@ -4,14 +4,14 @@ This directory contains solutions to LeetCode problems that utilize stack data s
 ## Problem List
 | # | Title | Difficulty | Key Concepts | My Solution |
 |---|-------|------------|--------------|-------------|
-| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | Stack |[My Code](https://github.com/ArmanBehnam/Leetcode/tree/main/stack/20) |
-| 32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | Hard | Stack, DP |[My Code](https://github.com/ArmanBehnam/Leetcode/tree/main/stack/32) |
-| 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Hard | Stack, Two Pointers |[My Code](https://github.com/ArmanBehnam/Leetcode/tree/main/stack/42) |
-| 71 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | Medium | Stack, String |[My Code](https://github.com/ArmanBehnam/Leetcode/tree/main/stack/71) |
-| 84 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | Hard | Stack |[My Code](https://github.com/ArmanBehnam/Leetcode/tree/main/stack/84) |
-| 85 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | Hard | Stack, DP |[My Code](https://github.com/ArmanBehnam/Leetcode/tree/main/stack/85) |
-| 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Medium | Stack, Tree |[My Code](https://github.com/ArmanBehnam/Leetcode/tree/main/stack/94) |
-| 114 | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | Medium | Stack, Tree |[My Code](https://github.com/ArmanBehnam/Leetcode/tree/main/stack/114) |
+| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | Stack |[My Code](https://github.com/irojhan/Leetcode/tree/master/stack/20) |
+| 32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | Hard | Stack, DP |[My Code](https://github.com/irojhan/Leetcode/tree/master/stack/32) |
+| 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Hard | Stack, Two Pointers |[My Code](https://github.com/irojhan/Leetcode/tree/master/stack/42) |
+| 71 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | Medium | Stack, String |[My Code](https://github.com/irojhan/Leetcode/tree/master/stack/71) |
+| 84 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | Hard | Stack |[My Code](https://github.com/irojhan/Leetcode/tree/master/stack/84) |
+| 85 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | Hard | Stack, DP |[My Code](https://github.com/irojhan/Leetcode/tree/master/stack/85) |
+| 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Medium | Stack, Tree |[My Code](https://github.com/irojhan/Leetcode/tree/master/stack/94) |
+| 114 | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | Medium | Stack, Tree |[My Code](https://github.com/irojhan/Leetcode/tree/master/stack/114) |
 
 ## Common Patterns & Techniques
 1. Parentheses Matching
