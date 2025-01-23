@@ -4,13 +4,13 @@ This directory contains solutions to LeetCode problems that focus on graph algor
 ## Problem List
 | # | Title | Difficulty | Key Concepts | My Solution |
 |---|-------|------------|--------------|-------------|
-| 133 | [Clone Graph](https://leetcode.com/problems/clone-graph/) | Medium | DFS, Hash Table |[My Code](https://github.com/ArmanBehnam/Leetcode/tree/main/graph/133) |
-| 207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | Medium | Topological Sort |[My Code](https://github.com/ArmanBehnam/Leetcode/tree/main/graph/207) |
-| 210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | Medium | Topological Sort |[My Code](https://github.com/ArmanBehnam/Leetcode/tree/main/graph/210) |
-| 261 | [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) | Medium | Union Find, DFS |[My Code](https://github.com/ArmanBehnam/Leetcode/tree/main/graph/261) |
-| 269 | [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/) | Hard | Topological Sort |[My Code](https://github.com/ArmanBehnam/Leetcode/tree/main/graph/269) |
-| 277 | [Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/) | Medium | Graph |[My Code](https://github.com/ArmanBehnam/Leetcode/tree/main/graph/277) |
-| 310 | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) | Medium | BFS |[My Code](https://github.com/ArmanBehnam/Leetcode/tree/main/graph/310) |
+| 133 | [Clone Graph](https://leetcode.com/problems/clone-graph/) | Medium | DFS, Hash Table |[My Code](https://github.com/irojhan/Leetcode/tree/master/graph/133) |
+| 207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | Medium | Topological Sort |[My Code](https://github.com/irojhan/Leetcode/tree/master/graph/207) |
+| 210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | Medium | Topological Sort |[My Code](https://github.com/irojhan/Leetcode/tree/master/graph/210) |
+| 261 | [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) | Medium | Union Find, DFS |[My Code](https://github.com/irojhan/Leetcode/tree/master/graph/261) |
+| 269 | [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/) | Hard | Topological Sort |[My Code](https://github.com/irojhan/Leetcode/tree/master/graph/269) |
+| 277 | [Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/) | Medium | Graph |[My Code](https://github.com/irojhan/Leetcode/tree/master/graph/277) |
+| 310 | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) | Medium | BFS |[My Code](https://github.com/irojhan/Leetcode/tree/master/graph/310) |
 
 ## Common Patterns & Techniques
 1. Graph Traversal
