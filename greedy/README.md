@@ -4,16 +4,16 @@ This directory contains solutions to LeetCode problems that use greedy algorithm
 ## Problem List
 | # | Title | Difficulty | Key Concepts | My Solution |
 |---|-------|------------|--------------|-------------|
-| 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | Two Pointers, Greedy |[My Code](https://github.com/ArmanBehnam/Leetcode/tree/main/greedy/11) |
-| 44 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | Hard | Greedy, DP |[My Code](https://github.com/ArmanBehnam/Leetcode/tree/main/greedy/44) |
-| 45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | Medium | Greedy, DP |[My Code](https://github.com/ArmanBehnam/Leetcode/tree/main/greedy/45) |
-| 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | Medium | Greedy |[My Code](https://github.com/ArmanBehnam/Leetcode/tree/main/greedy/55) |
+| 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | Two Pointers, Greedy |[My Code](https://github.com/irojhan/Leetcode/tree/master/greedy/11) |
+| 44 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | Hard | Greedy, DP |[My Code](https://github.com/irojhan/Leetcode/tree/master/greedy/44) |
+| 45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | Medium | Greedy, DP |[My Code](https://github.com/irojhan/Leetcode/tree/master/greedy/45) |
+| 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | Medium | Greedy |[My Code](https://github.com/irojhan/Leetcode/tree/master/greedy/55) |
 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | Easy | Greedy |[My Code](https://github.com/ArmanBehnam/Leetcode/tree/main/greedy/122) |
-| 134 | [Gas Station](https://leetcode.com/problems/gas-station/) | Medium | Greedy |[My Code](https://github.com/ArmanBehnam/Leetcode/tree/main/greedy/134) |
-| 135 | [Candy](https://leetcode.com/problems/candy/) | Hard | Greedy |[My Code](https://github.com/ArmanBehnam/Leetcode/tree/main/greedy/135) |
-| 179 | [Largest Number](https://leetcode.com/problems/largest-number/) | Medium | Greedy, Sorting |[My Code](https://github.com/ArmanBehnam/Leetcode/tree/main/greedy/179) |
-| 253 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) | Medium | Greedy, Heap |[My Code](https://github.com/ArmanBehnam/Leetcode/tree/main/greedy/253) |
-| 280 | [Wiggle Sort](https://leetcode.com/problems/wiggle-sort/) | Medium | Greedy, Array |[My Code](https://github.com/ArmanBehnam/Leetcode/tree/main/greedy/280) |
+| 134 | [Gas Station](https://leetcode.com/problems/gas-station/) | Medium | Greedy |[My Code](https://github.com/irojhan/Leetcode/tree/master/greedy/134) |
+| 135 | [Candy](https://leetcode.com/problems/candy/) | Hard | Greedy |[My Code](https://github.com/irojhan/Leetcode/tree/master/greedy/135) |
+| 179 | [Largest Number](https://leetcode.com/problems/largest-number/) | Medium | Greedy, Sorting |[My Code](https://github.com/irojhan/Leetcode/tree/master/greedy/179) |
+| 253 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) | Medium | Greedy, Heap |[My Code](https://github.com/irojhan/Leetcode/tree/master/greedy/253) |
+| 280 | [Wiggle Sort](https://leetcode.com/problems/wiggle-sort/) | Medium | Greedy, Array |[My Code](https://github.com/irojhan/Leetcode/tree/master/greedy/280) |
 
 ## Common Patterns & Techniques
 1. Local Optimization
