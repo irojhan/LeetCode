@@ -4,18 +4,18 @@ This directory contains solutions to LeetCode problems that utilize dynamic prog
 ## Problem List
 | # | Title | Difficulty | Key Concepts | My Solution |
 |---|-------|------------|--------------|-------------|
-| 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | DP, String |[My Code](https://github.com/ArmanBehnam/Leetcode/tree/main/dynamic/5) |
-| 10 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | Hard | DP, String |[My Code](https://github.com/ArmanBehnam/Leetcode/tree/main/dynamic/10) |
-| 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Medium | DP, Backtracking |[My Code](https://github.com/ArmanBehnam/Leetcode/tree/main/dynamic/22) |
-| 32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | Hard | DP, Stack |[My Code](https://github.com/ArmanBehnam/Leetcode/tree/main/dynamic/32) |
-| 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Hard | DP, Two Pointers |[My Code](https://github.com/ArmanBehnam/Leetcode/tree/main/dynamic/42) |
-| 44 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | Hard | DP, String |[My Code](https://github.com/ArmanBehnam/Leetcode/tree/main/dynamic/44) |
-| 45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | Medium | DP, Greedy |[My Code](https://github.com/ArmanBehnam/Leetcode/tree/main/dynamic/45) |
-| 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Medium | DP, Divide & Conquer |[My Code](https://github.com/ArmanBehnam/Leetcode/tree/main/dynamic/53) |
-| 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | Medium | DP, Greedy |[My Code](https://github.com/ArmanBehnam/Leetcode/tree/main/dynamic/55) |
-| 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | Medium | DP, Math |[My Code](https://github.com/ArmanBehnam/Leetcode/tree/main/dynamic/62) |
-| 63 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | Medium | DP |[My Code](https://github.com/ArmanBehnam/Leetcode/tree/main/dynamic/63) |
-| 64 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | Medium | DP |[My Code](https://github.com/ArmanBehnam/Leetcode/tree/main/dynamic/64) |
+| 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | DP, String |[My Code](https://github.com/irojhan/Leetcode/tree/master/dynamic/5) |
+| 10 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | Hard | DP, String |[My Code](https://github.com/irojhan/Leetcode/tree/master/dynamic/10) |
+| 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Medium | DP, Backtracking |[My Code](https://github.com/irojhan/Leetcode/tree/master/dynamic/22) |
+| 32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | Hard | DP, Stack |[My Code](https://github.com/irojhan/Leetcode/tree/master/dynamic/32) |
+| 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Hard | DP, Two Pointers |[My Code](https://github.com/irojhan/Leetcode/tree/master/dynamic/42) |
+| 44 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | Hard | DP, String |[My Code](https://github.com/irojhan/Leetcode/tree/master/dynamic/44) |
+| 45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | Medium | DP, Greedy |[My Code](https://github.com/irojhan/Leetcode/tree/master/dynamic/45) |
+| 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Medium | DP, Divide & Conquer |[My Code](https://github.com/irojhan/Leetcode/tree/master/dynamic/53) |
+| 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | Medium | DP, Greedy |[My Code](https://github.com/irojhan/Leetcode/tree/master/dynamic/55) |
+| 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | Medium | DP, Math |[My Code](https://github.com/irojhan/Leetcode/tree/master/dynamic/62) |
+| 63 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | Medium | DP |[My Code](https://github.com/irojhan/Leetcode/tree/master/dynamic/63) |
+| 64 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | Medium | DP |[My Code](https://github.com/irojhan/Leetcode/tree/master/dynamic/64) |
 
 ## Common Patterns & Techniques
 1. Tabulation (Bottom-Up)
